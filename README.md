@@ -1,6 +1,6 @@
 # Algoritmos-T1
 ### En el siguiente repositorio se pueden encontrar dos carpetas principales, una para la multiplicación de matrices donde se encuentra:
-- Los algoritmos usados (iterativo tradicional, iterativo opcional y strassen)
+- Los algoritmos usados (iterativo tradicional, iterativo optimizado y strassen)
 - El código generador de matrices
 - Los gráficos de comparación
 - Los .exe de los algoritmos y los conjuntos de datasets
